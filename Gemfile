@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
 gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
